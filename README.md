@@ -3,7 +3,8 @@
 
 PK + 3D Diffusion 
 
-MATLAB LINK : https://youtu.be/xU2DuzuOn7k
+MATLAB LINK : https://drive.mathworks.com/sharing/4bed6a32-9ec0-4a25-9ff8-3bef3acf135d/%ED%99%98%EC%9E%90%20%EC%83%9D%EC%B2%B4%20%EC%A0%95%EB%B3%B4%203%EC%B0%A8%EC%9B%90%20%EC%82%B0%EC%A0%90%EB%8F%84.m
+You tube link : https://youtu.be/xU2DuzuOn7k
 
 clc;
 clear;
